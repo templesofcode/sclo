@@ -1,0 +1,26 @@
+{
+  "name": "sclo",
+  "version": "0.1.0",
+  "author": "templesofcode",
+  "summary": "SLCO repo",
+  "license": "GPLv3",
+  "source": "https://github.com/templesofcode/sclo",
+  "project_page": "https://github.com/templesofcode/sclo",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.0.0"
+    }
+  ],
+  "description": "puppet module to install sclo",
+  "dependencies": []
+}
